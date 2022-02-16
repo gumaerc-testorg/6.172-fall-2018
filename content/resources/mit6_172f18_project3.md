@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-172-performance-engineering-of-software-systems-fall-2018/d2fb8ee337632ab3e256fa1704375053_MIT6_172F18_project3.pdf
+file: /media/courses/6-172-performance-engineering-of-software-systems-fall-2018/d2fb8ee337632ab3e256fa1704375053_MIT6_172F18_project3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: '6.172 Performance Engineering of Software Systems, Project 3: Serial Dynamic
   Memory Allocation'

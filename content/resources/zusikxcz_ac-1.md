@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-172-performance-engineering-of-software-systems-fall-2018/f87228897582ead1c2525018aa164b0f_ZusiKXcz_ac.pdf
+file: /media/courses/6-172-performance-engineering-of-software-systems-fall-2018/f87228897582ead1c2525018aa164b0f_ZusiKXcz_ac.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: f8722889-7582-ead1-c252-5018aa164b0f

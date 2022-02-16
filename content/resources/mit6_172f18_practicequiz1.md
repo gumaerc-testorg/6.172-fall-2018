@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-172-performance-engineering-of-software-systems-fall-2018/6dd24f1d927b16e1e0eec707a44cf6a4_MIT6_172F18_practicequiz1.pdf
+file: /media/courses/6-172-performance-engineering-of-software-systems-fall-2018/6dd24f1d927b16e1e0eec707a44cf6a4_MIT6_172F18_practicequiz1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Quizzes
+parent_type: CourseSection
 resourcetype: Document
 title: 6.172 Performance Engineering of Software Systems, Practice Quiz 1
 uid: 6dd24f1d-927b-16e1-e0ee-c707a44cf6a4

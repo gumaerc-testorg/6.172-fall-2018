@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: cb1c0b58-8252-b701-161e-cb975e8e5162
 resourcetype: Document
 title: 6.172 Performance Engineering of Software Systems, Practice Quiz 1 Solutions
 uid: 5a4a0e52-3f93-da26-593c-3a1b2d6ca6e5

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Recitation Problems
 parent_type: CourseSection
+parent_uid: 713171a5-bfcd-199f-6efd-5372c2a9351e
 resourcetype: Document
 title: 6.172 Performance Engineering of Software Systems, Recitation 6
 uid: 3f0e281a-9df6-1160-6311-d6508ca76f7d

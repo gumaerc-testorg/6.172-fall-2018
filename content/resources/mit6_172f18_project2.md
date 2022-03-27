@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2109edee-721a-f9ce-a61f-e50482c54cb1
 resourcetype: Document
 title: '6.172 Performance Engineering of Software Systems, Project 2: Collision Detection'
 uid: ac1794b0-1bec-7e14-b4fd-34d5b1a7d2aa

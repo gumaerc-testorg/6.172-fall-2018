@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2109edee-721a-f9ce-a61f-e50482c54cb1
 resourcetype: Other
 title: MIT6_172F18-project3.zip
 uid: ea2f2988-a1ea-1d21-6268-2f86478fae28

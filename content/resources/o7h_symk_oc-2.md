@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-172-performance-engineering-of-software-systems-fall-2018/58b60745048f538b869a7f3eebb37f12_o7h_sYMk_oc.vtt
+file: /courses/6-172-performance-engineering-of-software-systems-fall-2018/58b60745048f538b869a7f3eebb37f12_o7h_sYMk_oc.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

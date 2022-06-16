@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Professor Steven Johnson talks about a new dynamic language called Julia as an alternative to the two-language approach for interactive math. Julia is then compared to Python and C. 
 
 **Instructor:** Steven Johnson
+
+
+

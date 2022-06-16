@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** T.B. Schardl discusses the Clang/LLVM compilation pipeline as well as reasons to study compiler optimizations, how to use compiler reports, and compiler optimization. Three case studies on diagnosing failures are examined.
 
 **Instructor:** Tao B. Schardl
+
+
+

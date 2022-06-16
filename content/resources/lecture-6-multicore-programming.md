@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers modern multi-core processors, the need to utilize parallel programming for high performance, and how Cilk abstracts processor cores, handles synchronization and communication protocols, and performs provably efficient load balancing.
 
 **Instructor:** Julian Shun
+
+
+

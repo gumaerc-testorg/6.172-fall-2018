@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-172-performance-engineering-of-software-systems-fall-2018/26d0fe05ef1e719ae599c4e4c9ccf5b4_MIT6_172F18_practicequiz2.pdf
+file: /courses/6-172-performance-engineering-of-software-systems-fall-2018/26d0fe05ef1e719ae599c4e4c9ccf5b4_MIT6_172F18_practicequiz2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams

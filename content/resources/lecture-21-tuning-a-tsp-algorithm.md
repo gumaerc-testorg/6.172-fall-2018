@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Jon Bentley, retired from Bell Labs Research, discusses the traveling salesperson problem. This class is a case study in implementing algorithms, recursive enumeration, algorithm engineering, and applying algorithms and data structures.
 
 **Instructor:** Jon Bentley
+
+
+

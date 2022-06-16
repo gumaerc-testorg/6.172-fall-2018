@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This class is focused on the Cilk runtime system. It stresses the work-first principle: optimize for ordinary serial execution at the expense of additional computation in steals. There is an emphasis on performance models and parallel runtime systems.
 
 **Instructor:** Tao B. Schardl
+
+
+

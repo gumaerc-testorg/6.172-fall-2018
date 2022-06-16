@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Professor Leiserson introduces _6.172 Performance Engineering of Software Systems_. The class examines an example of code optimization using matrix multiplication and discusses the differences between programming languages Python, Java, and C.
 
 **Instructor:** Charles Leiserson
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Prof. Shun discusses cache-oblivious algorithms through a simulation of heat diffusion and a 3-point stencil simulation. Caching and parallelism is discussed in Cilk.
 
 **Instructor:** Julian Shun
+
+
+

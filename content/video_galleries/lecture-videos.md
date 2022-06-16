@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: 'Complete lecture videos for 6.172 Performance Engineering of Software
+  Systems. '
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

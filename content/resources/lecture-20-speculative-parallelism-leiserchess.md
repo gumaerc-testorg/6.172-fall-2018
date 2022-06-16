@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Prof. Leiserson discusses speculative parallelism and its applications in parallel alpha-beta search and jamboree search. The lecture ends with a discussion of computer-chess programs.
 
 **Instructor:** Charles Leiserson
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture is about how one can reliably measure the performance of software and examples of various factors that can contribute to incorrect measurements. Different timers are explored as well as the use of simulators.
 
 **Instructor:** Charles Leiserson
+
+
+

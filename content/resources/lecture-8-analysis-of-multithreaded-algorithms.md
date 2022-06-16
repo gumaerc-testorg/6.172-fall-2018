@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Professor Leiserson explains divide-and-conquer recurrences, cilk loops, matrix multiplication, merge sort, and tableau construction.
 
 **Instructor:** Charles Leiserson
+
+
+

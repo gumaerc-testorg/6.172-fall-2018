@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Complete lecture slides for 6.172 Performance Engineering of Software
+  Systems.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ Topics
 {{< tdopen >}}
 
 
-[Introduction & Matrix Multiplication (PDF - 6.9MB)]({{< baseurl >}}/resources/mit6_172f18_lec1)
+{{% resource_link d0c73dd5-1c79-b951-96a2-e6faa824e1b4 "Introduction & Matrix Multiplication (PDF - 6.9MB)" %}}
 
 
 {{< tdclose >}}
@@ -48,7 +50,7 @@ Topics
 {{< tdopen >}}
 
 
-[Bentley Rules for Optimizing Work (PDF - 3.5 MB)]({{< baseurl >}}/resources/mit6_172f18_lec2)
+{{% resource_link 1a57adbe-c952-0270-d448-5b42a2e1a316 "Bentley Rules for Optimizing Work (PDF - 3.5 MB)" %}}
 
 
 {{< tdclose >}}
@@ -65,7 +67,7 @@ Topics
 {{< tdopen >}}
 
 
-[Bit Hacks (PDF - 2.3MB)]({{< baseurl >}}/resources/mit6_172f18_lec3)
+{{% resource_link cc6983c9-ebd7-7c28-e8ae-85bc0e575360 "Bit Hacks (PDF - 2.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -82,7 +84,7 @@ Topics
 {{< tdopen >}}
 
 
-[Assembly Language and Computer Architecture (PDF - 6.4MB)]({{< baseurl >}}/resources/mit6_172f18_lec4)
+{{% resource_link 8955b91d-bd47-c241-fb29-04c700fdb697 "Assembly Language and Computer Architecture (PDF - 6.4MB)" %}}
 
 
 {{< tdclose >}}
@@ -99,7 +101,7 @@ Topics
 {{< tdopen >}}
 
 
-[C to Assembly (PDF - 6.5MB)]({{< baseurl >}}/resources/mit6_172f18_lec5)
+{{% resource_link b0d1c7f4-5792-0326-cef5-c958237ea743 "C to Assembly (PDF - 6.5MB)" %}}
 
 
 {{< tdclose >}}
@@ -116,7 +118,7 @@ Topics
 {{< tdopen >}}
 
 
-[Multicore Programming (PDF - 4.4MB)]({{< baseurl >}}/resources/mit6_172f18_lec6)
+{{% resource_link cbef71a2-b92b-c700-fbad-43e69f951513 "Multicore Programming (PDF - 4.4MB)" %}}
 
 
 {{< tdclose >}}
@@ -133,7 +135,7 @@ Topics
 {{< tdopen >}}
 
 
-[Races and Parallelism (PDF - 4.4MB)]({{< baseurl >}}/resources/mit6_172f18_lec7)
+{{% resource_link 543e419b-ff1e-d05b-1a64-9115c24c44b3 "Races and Parallelism (PDF - 4.4MB)" %}}
 
 
 {{< tdclose >}}
@@ -150,7 +152,7 @@ Topics
 {{< tdopen >}}
 
 
-[Analysis of Multithreaded Algorithms (PDF - 6.3MB)]({{< baseurl >}}/resources/mit6_172f18_lec8)
+{{% resource_link 5655e505-41f8-5421-cc47-b7c85d8e5de3 "Analysis of Multithreaded Algorithms (PDF - 6.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -167,7 +169,7 @@ Topics
 {{< tdopen >}}
 
 
-[What Compilers Can and Cannot Do (PDF - 7.4MB)]({{< baseurl >}}/resources/mit6_172f18_lec9)
+{{% resource_link df628b3f-ffb0-46d1-8f94-42f01a812ccf "What Compilers Can and Cannot Do (PDF - 7.4MB)" %}}
 
 
 {{< tdclose >}}
@@ -184,7 +186,7 @@ Topics
 {{< tdopen >}}
 
 
-[Measurement and Timing (PDF - 1.6MB)]({{< baseurl >}}/resources/mit6_172f18_lec10)
+{{% resource_link 4d7f4bb3-1bf1-ed90-c669-a11867d36d36 "Measurement and Timing (PDF - 1.6MB)" %}}
 
 
 {{< tdclose >}}
@@ -201,7 +203,7 @@ Topics
 {{< tdopen >}}
 
 
-[Storage Allocation (PDF - 3.3MB)]({{< baseurl >}}/resources/mit6_172f18_lec11)
+{{% resource_link 68624442-da60-4773-1a33-b3590cefd030 "Storage Allocation (PDF - 3.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -218,7 +220,7 @@ Topics
 {{< tdopen >}}
 
 
-[Parallel Storage Allocation (PDF - 2.5MB)]({{< baseurl >}}/resources/mit6_172f18_lec12)
+{{% resource_link 24c247c9-4302-4dcd-a40b-cc7caa206581 "Parallel Storage Allocation (PDF - 2.5MB)" %}}
 
 
 {{< tdclose >}}
@@ -235,7 +237,7 @@ Topics
 {{< tdopen >}}
 
 
-[The Cilk Runtime System (PDF - 4.7MB)]({{< baseurl >}}/resources/mit6_172f18_lec13)
+{{% resource_link fe9b7466-36be-a535-7ea8-269fe6463020 "The Cilk Runtime System (PDF - 4.7MB)" %}}
 
 
 {{< tdclose >}}
@@ -252,7 +254,7 @@ Topics
 {{< tdopen >}}
 
 
-[Caching and Cache-Efficient Algorithms (PDF - 2.8MB)]({{< baseurl >}}/resources/mit6_172f18_lec14)
+{{% resource_link 329bfc6e-1808-c375-afa5-17feb3c4c273 "Caching and Cache-Efficient Algorithms (PDF - 2.8MB)" %}}
 
 
 {{< tdclose >}}
@@ -269,7 +271,7 @@ Topics
 {{< tdopen >}}
 
 
-[Cache-Oblivious Algorithms (PDF - 3.2MB)]({{< baseurl >}}/resources/mit6_172f18_lec15)
+{{% resource_link cef17369-f91d-3140-409f-2be4ad9246a4 "Cache-Oblivious Algorithms (PDF - 3.2MB)" %}}
 
 
 {{< tdclose >}}
@@ -286,7 +288,7 @@ Topics
 {{< tdopen >}}
 
 
-[Nondeterministic Parallel Programming (PDF - 3.3MB)]({{< baseurl >}}/resources/mit6_172f18_lec16)
+{{% resource_link e4fe97d2-a250-b57b-b1e3-30fba8cf5992 "Nondeterministic Parallel Programming (PDF - 3.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -303,7 +305,7 @@ Topics
 {{< tdopen >}}
 
 
-[Synchronization Without Locks (PDF - 3.3MB)]({{< baseurl >}}/resources/mit6_172f18_lec17)
+{{% resource_link fc3b846f-6e13-e15e-4982-a92369ca3825 "Synchronization Without Locks (PDF - 3.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -320,7 +322,7 @@ Topics
 {{< tdopen >}}
 
 
-[Domain Specific Languages and Autotuning (PDF - 4.6MB)]({{< baseurl >}}/resources/mit6_172f18_lec18)
+{{% resource_link 6cd23592-35c4-15ad-5596-0be2dfc7e136 "Domain Specific Languages and Autotuning (PDF - 4.6MB)" %}}
 
 
 {{< tdclose >}}
@@ -337,7 +339,7 @@ Topics
 {{< tdopen >}}
 
 
-[Leiserchess Codewalk (PDF - 6.4MB)]({{< baseurl >}}/resources/mit6_172f18_lec19)
+{{% resource_link 809f3351-da7a-2e5a-6afc-7c22e2e68e4d "Leiserchess Codewalk (PDF - 6.4MB)" %}}
 
 
 {{< tdclose >}}
@@ -354,7 +356,7 @@ Topics
 {{< tdopen >}}
 
 
-[Speculative Parallelism & Leiserchess (PDF - 6.2MB)]({{< baseurl >}}/resources/mit6_172f18_lec20)
+{{% resource_link 076be084-af69-b7d6-45c3-0b1f337a3b08 "Speculative Parallelism & Leiserchess (PDF - 6.2MB)" %}}
 
 
 {{< tdclose >}}
@@ -371,7 +373,7 @@ Topics
 {{< tdopen >}}
 
 
-[Tuning a TSP Algorithm (PDF - 1.6MB)]({{< baseurl >}}/resources/mit6_172f18_lec21)
+{{% resource_link dd989b76-928a-0561-851e-73da6d028763 "Tuning a TSP Algorithm (PDF - 1.6MB)" %}}
 
 
 {{< tdclose >}}
@@ -388,7 +390,7 @@ Topics
 {{< tdopen >}}
 
 
-[Graph Optimization (PDF - 2.9MB)]({{< baseurl >}}/resources/mit6_172f18_lec22)
+{{% resource_link f58df934-e205-b870-e473-c2af3fe5e6f7 "Graph Optimization (PDF - 2.9MB)" %}}
 
 
 {{< tdclose >}}
@@ -405,7 +407,7 @@ Topics
 {{< tdopen >}}
 
 
-[High Performance in Dynamic Languages (PDF)]({{< baseurl >}}/resources/mit6_172f18_lec23)
+{{% resource_link 4dd5830c-2bb4-e4da-2a51-c5baae8accb8 "High Performance in Dynamic Languages (PDF)" %}}
 
 
 {{< tdclose >}}

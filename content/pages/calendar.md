@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Calendar for 6.172 Performance Engineering of Software Systems including
+  lecture topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-172-performance-engineering-of-software-systems-fall-2018/dd10cda9a809e5afb37a9723e10a45ef_MIT6_172F18_rec3sol.pdf
+file: /courses/6-172-performance-engineering-of-software-systems-fall-2018/dd10cda9a809e5afb37a9723e10a45ef_MIT6_172F18_rec3sol.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

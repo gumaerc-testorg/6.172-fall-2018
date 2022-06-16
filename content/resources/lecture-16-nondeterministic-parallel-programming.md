@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Prof. Leiserson discusses nondeterministic parallel programming, atomicity implement through mutexes, determinacy races, and data races. Deadlock and the dining philosopher’s problem are also discussed.
 
 **Instructor:** Charles Leiserson
+
+
+

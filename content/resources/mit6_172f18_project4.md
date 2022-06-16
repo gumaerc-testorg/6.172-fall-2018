@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-172-performance-engineering-of-software-systems-fall-2018/b13a935db7ea2a78a16582065bba55be_MIT6_172F18_project4.pdf
+file: /courses/6-172-performance-engineering-of-software-systems-fall-2018/b13a935db7ea2a78a16582065bba55be_MIT6_172F18_project4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

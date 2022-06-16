@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Prof. Shun discusses the differences between malloc() and mmap(); how cactus stacks work; parallel allocation strategies including global heaps, local heaps, and local ownership; and incremental, parallel, and concurrent garbage collection.
 
 **Instructor:** Julian Shun
+
+
+

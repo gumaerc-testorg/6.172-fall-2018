@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Prof. Shun discusses an array of bit hacks, the types of hacks compilers do, and bit hacks to do by hand when the compiler doesn’t optimize.
 
 **Instructor:** Julian Shun
+
+
+

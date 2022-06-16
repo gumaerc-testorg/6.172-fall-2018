@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Prof. Shun discusses associativity in caches, the ideal cache model, cache-aware algorithms like tiled matrix multiplication, and cache-oblivious algorithms like divide-and-conquer matrix multiplication.
 
 **Instructor:** Julian Shun
+
+
+

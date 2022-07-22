@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Project structure and instructions for 6.172 Performance Engineering
+  of Software Systems.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 2109edee-721a-f9ce-a61f-e50482c54cb1
 ---
@@ -82,14 +87,14 @@ code files
 {{< tdopen >}}
 
 
-[Project 1: Bit Hacks (PDF)]({{< baseurl >}}/resources/mit6_172f18_project1)
+{{% resource_link 271aca8d-d9fe-0ff1-59ae-31396a180f17 "Project 1: Bit Hacks (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Project 1 Materials (ZIP)]({{< baseurl >}}/resources/mit6_172f18-project1)
+{{% resource_link 6bd28177-85cf-3e7c-04c8-cfe9b7cd9f1e "Project 1 Materials (ZIP)" %}}
 
 This file contains: 2 .py files, 3 .h files, and 3 .c files.
 
@@ -101,14 +106,14 @@ This file contains: 2 .py files, 3 .h files, and 3 .c files.
 {{< tdopen >}}
 
 
-[Project 2: Collision Detection (PDF)]({{< baseurl >}}/resources/mit6_172f18_project2)
+{{% resource_link ac1794b0-1bec-7e14-b4fd-34d5b1a7d2aa "Project 2: Collision Detection (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Project 2 Materials (ZIP)]({{< baseurl >}}/resources/mit6_172f18-project2)
+{{% resource_link e73f8fc3-0a60-9509-b847-f708815a72c0 "Project 2 Materials (ZIP)" %}}
 
 This file contains: 1 .py file, 9 .h files, 7 .c files, and 7 .in files.
 
@@ -120,14 +125,14 @@ This file contains: 1 .py file, 9 .h files, 7 .c files, and 7 .in files.
 {{< tdopen >}}
 
 
-[Project 3: Serial Dynamic Memory Allocation (PDF)]({{< baseurl >}}/resources/mit6_172f18_project3)
+{{% resource_link d2fb8ee3-3763-2ab3-e256-fa1704375053 "Project 3: Serial Dynamic Memory Allocation (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Project 3 Materials (ZIP)]({{< baseurl >}}/resources/mit6_172f18-project3)
+{{% resource_link ea2f2988-a1ea-1d21-6268-2f86478fae28 "Project 3 Materials (ZIP)" %}}
 
 This file contains: 3 .py files, 10 .h files, and 11 .c files. 
 
@@ -139,16 +144,16 @@ This file contains: 3 .py files, 10 .h files, and 11 .c files. 
 {{< tdopen >}}
 
 
-[Project 4: Leiserchess (PDF)]({{< baseurl >}}/resources/mit6_172f18_project4)
+{{% resource_link b13a935d-b7ea-2a78-a165-82065bba55be "Project 4: Leiserchess (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Leiserchess Rules (PDF)]({{< baseurl >}}/resources/mit6_172f18_leiserchess)
+{{% resource_link 6f1ff098-e89d-9c6f-1e63-9de093fd9495 "Leiserchess Rules (PDF)" %}}
 
-[Project 4 Materials (ZIP - 2.3MB)]({{< baseurl >}}/resources/mit6_172f18-project4)
+{{% resource_link 7be0c0bd-328f-4497-8afe-81c47e3ca303 "Project 4 Materials (ZIP - 2.3MB)" %}}
 
 This file contains: 4 .py files, 52 .h files, 14 .c files, 32 .cpp files, 8 .java files, 6 .js files, 6 .pptx files, 4 .dta files, 1 .pdf file, 1 .html file, 1 .css file, and 1 .key file.
 

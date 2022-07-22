@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Prof. Shun discusses graph optimizations, algorithmic and by exploiting locality, and issues such how real-world graphs are large and sparse, irregular graph algorithms with many memory accesses, and optimizations working for some graphs, but not others.
 
 **Instructor:** Julian Shun
-
-
 

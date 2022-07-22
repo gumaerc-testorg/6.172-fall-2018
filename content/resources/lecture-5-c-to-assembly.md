@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture focuses on how C code is implemented in x86-64 assembly. Dr. Schardl reasons through the mapping from C code to assembly in two steps: C to LLVM IR and then LLVM IR to Assembly.
 
 **Instructor:** Tao B. Schardl
-
-
 

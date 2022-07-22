@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture discusses different means of storage allocation, including stacks, fixed-sized heaps, and variable-sized heaps. The lecture also discusses garbage collection, including by counting reference pointers, mark-and-sweep, and stop-and-copy.
 
 **Instructor:** Julian Shun
-
-
 

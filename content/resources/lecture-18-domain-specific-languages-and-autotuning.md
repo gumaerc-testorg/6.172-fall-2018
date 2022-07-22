@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Prof. Amarasinghe discusses domain specific languages, when they are applicable to be used, scheduling optimizations, and autotuning. The three languages discussed in particular are GraphIt, Halide, and OpenTuner.
 
 **Instructor:** Saman Amarasinghe
-
-
 

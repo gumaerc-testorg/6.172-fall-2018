@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-172-performance-engineering-of-software-systems-fall-2018/b5784797a007ded8f3276eed5e8c1d0d_MIT6_172F18_rec4sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitation Problems
 parent_type: CourseSection

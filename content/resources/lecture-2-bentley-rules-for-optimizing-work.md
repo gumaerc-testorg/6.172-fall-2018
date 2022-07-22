@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Prof. Shun discusses Bentley Rules for optimizing work and discusses a number of examples including packing and encoding, compile-time initialization, loop unrolling, short-circuiting, fast paths, and combining tests.
 
 **Instructor:** Julian Shun
-
-
 

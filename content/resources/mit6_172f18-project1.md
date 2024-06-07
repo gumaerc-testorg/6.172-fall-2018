@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-172-performance-engineering-of-software-systems-fall-2018/6bd2817785cf3e7c04c8cfe9b7cd9f1e_MIT6_172F18-project1.zip
+file_size: 69673
 file_type: application/zip
 learning_resource_types:
 - Projects

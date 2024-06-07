@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-172-performance-engineering-of-software-systems-fall-2018/27ca5081e62c55dbb70369463619222a_xwE568oVQ1Y.vtt
+file_size: 114081
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

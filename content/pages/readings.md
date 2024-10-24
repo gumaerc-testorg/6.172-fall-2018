@@ -18,7 +18,7 @@ Leiserson, Charles. "[The Cilk++ Concurrency Platform](https://doi.org/10.1007/s
 
 Leiserson, Charles and Ilya Mirman. "[How to Survive the Multicore Software Revolution (or at Least Survive the Hype) (PDF - 3.5MB)](https://software.intel.com/sites/default/files/m/d/4/1/d/8/How_to_Survive_the_Multicore_Software_Revolution-1.pdf)." 
 
-Frigo, Matteo, Charles Leiserson, and Keith Randall. "[The Implementation of the Cilk-5 Multithreaded Language](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.52.2013)." *Proceedings of the 1998 ACM Sigplan Conference on Programming Language Design and Implementation (PLDI)* (1998). 
+Frigo, Matteo, Charles Leiserson, and Keith Randall. "[The Implementation of the Cilk-5 Multithreaded Language](https://doi.org/10.1145/277650.277725)." *Proceedings of the 1998 ACM Sigplan Conference on Programming Language Design and Implementation (PLDI)* (1998). 
 
 He, Yuxiong, Charles Leiserson, and William Leiserson. "[The Cilkview Scalability Analyzer](https://dl.acm.org/citation.cfm?id=1810509)." *Proceedings of the Twenty-Second Annual ACM Symposium on Parallelism in Algorithms and Architectures* (2010): 145–156. 
 

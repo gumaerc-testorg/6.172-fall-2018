@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-172-performance-engineering-of-software-systems-fall-2018/aad76fb73486120aa532e9859fbd26c0_5sZo3SrLrGA.srt
+file: /ol-ocw-studio-app/courses/6-172-performance-engineering-of-software-systems-fall-2018/aad76fb73486120aa532e9859fbd26c0_5sZo3SrLrGA.srt
 file_size: 106270
 file_type: application/x-subrip
 learning_resource_types: []

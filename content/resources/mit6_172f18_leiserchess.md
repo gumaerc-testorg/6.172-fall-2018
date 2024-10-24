@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-172-performance-engineering-of-software-systems-fall-2018/6f1ff098e89d9c6f1e639de093fd9495_MIT6_172F18_leiserchess.pdf
+file: /ol-ocw-studio-app/courses/6-172-performance-engineering-of-software-systems-fall-2018/6f1ff098e89d9c6f1e639de093fd9495_MIT6_172F18_leiserchess.pdf
 file_size: 931168
 file_type: application/pdf
 learning_resource_types:

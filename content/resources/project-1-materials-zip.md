@@ -2,23 +2,23 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/6-172-performance-engineering-of-software-systems-fall-2018/1a57adbec9520270d4485b42a2e1a316_MIT6_172F18_lec2.pdf
-file_size: 3611037
-file_type: application/pdf
+file: /ol-ocw-studio-app/courses/6-172-performance-engineering-of-software-systems-fall-2018/6bd2817785cf3e7c04c8cfe9b7cd9f1e_MIT6_172F18-project1.zip
+file_size: 69673
+file_type: application/zip
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_title: Lecture Slides
+parent_title: Projects
 parent_type: CourseSection
-parent_uid: 45c20de8-b960-6734-5de3-018f21fd8cd8
-resourcetype: Document
-title: 'Lecture 2: Bentley Rules for Optimizing Work'
-uid: 1a57adbe-c952-0270-d448-5b42a2e1a316
+parent_uid: 2109edee-721a-f9ce-a61f-e50482c54cb1
+resourcetype: Other
+title: Project 1 Materials (ZIP)
+uid: 6bd28177-85cf-3e7c-04c8-cfe9b7cd9f1e
 video_files:
   archive_url: ''
   video_captions_file: ''

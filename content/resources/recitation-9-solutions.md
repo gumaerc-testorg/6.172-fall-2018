@@ -2,23 +2,23 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/6-172-performance-engineering-of-software-systems-fall-2018/1a57adbec9520270d4485b42a2e1a316_MIT6_172F18_lec2.pdf
-file_size: 3611037
+file: /ol-ocw-studio-app/courses/6-172-performance-engineering-of-software-systems-fall-2018/c6c9289ff27bb530da2bf81dd96b8627_MIT6_172F18_rec9sol.pdf
+file_size: 184142
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem-solving Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_title: Lecture Slides
+parent_title: Recitation Problems
 parent_type: CourseSection
-parent_uid: 45c20de8-b960-6734-5de3-018f21fd8cd8
+parent_uid: 713171a5-bfcd-199f-6efd-5372c2a9351e
 resourcetype: Document
-title: 'Lecture 2: Bentley Rules for Optimizing Work'
-uid: 1a57adbe-c952-0270-d448-5b42a2e1a316
+title: Recitation 9 Solutions
+uid: c6c9289f-f27b-b530-da2b-f81dd96b8627
 video_files:
   archive_url: ''
   video_captions_file: ''

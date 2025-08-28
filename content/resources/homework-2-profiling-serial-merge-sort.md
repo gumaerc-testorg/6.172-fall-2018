@@ -2,23 +2,23 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/6-172-performance-engineering-of-software-systems-fall-2018/1a57adbec9520270d4485b42a2e1a316_MIT6_172F18_lec2.pdf
-file_size: 3611037
+file: /ol-ocw-studio-app/courses/6-172-performance-engineering-of-software-systems-fall-2018/796439e646c02f44348d50b1836ff7f9_MIT6_172F18hw2.pdf
+file_size: 226141
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Programming Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_title: Lecture Slides
+parent_title: Assignments
 parent_type: CourseSection
-parent_uid: 45c20de8-b960-6734-5de3-018f21fd8cd8
+parent_uid: a2985482-0758-c1ef-a6ea-42f1d63e5cb7
 resourcetype: Document
-title: 'Lecture 2: Bentley Rules for Optimizing Work'
-uid: 1a57adbe-c952-0270-d448-5b42a2e1a316
+title: 'Homework 2: Profiling Serial Merge Sort'
+uid: 796439e6-46c0-2f44-348d-50b1836ff7f9
 video_files:
   archive_url: ''
   video_captions_file: ''

@@ -10,9 +10,9 @@ uid: a2985482-0758-c1ef-a6ea-42f1d63e5cb7
 
 \[Note: Assignments make use of AWS/Git features which may not be available to OCW users.\]
 
-Homework 5 refers to [Chapter 27 (PDF)](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=8030&fn=0262533057chap27.pdf) of _Introduction to Algorithms_ by Cormen, Leiserson, Rivest, and Stein (CLRS).
+Homework 5 refers to {{% resource_link "70e05be2-4352-4d68-a13a-47b95b8c6c76" "Chapter 27 (PDF)" %}} of _Introduction to Algorithms_ by Cormen, Leiserson, Rivest, and Stein (CLRS).
 
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262033848) Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. _[Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms-third-edition)_. MIT Press, 2009. ISBN: 9780262033848
+*   {{% resource_link "64ce685d-1bc3-4d83-b575-ea877f8db672" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. _{{% resource_link "7e58efdb-99f1-4a49-8914-81a320dea7e3" "Introduction to Algorithms" %}}_. MIT Press, 2009. ISBN: 9780262033848
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -41,7 +41,7 @@ Code
 {{% resource_link 7775d22d-f8bc-896b-87c5-93f24f7366eb "HW 1 Materials (ZIP)" %}}  
 This ZIP file contains 6 .c files, 1 .py file, 3 .h files, and 2 Makefiles.
 
-This assignment requires [clint.py](https://github.com/sillycross/Leiserchess---MIT-6.172-Fall16-Final-Project/blob/master/clint.py) to be downloaded.
+This assignment requires {{% resource_link "f5da2bf7-36ae-44b2-b937-8e8528c8bf7a" "clint.py" %}} to be downloaded.
 
 
 {{< tdclose >}}
@@ -61,7 +61,7 @@ This assignment requires [clint.py](https://github.com/sillycross/Leiserchess---
 {{% resource_link b050ca87-0211-70ea-0319-bce601ae17d3 "HW 2 Materials (ZIP)" %}}  
 This ZIP file contains 13 .c files, 1 .py file, 4 .h files, and 2 Makefiles.
 
-This assignment requires [clint.py](https://github.com/sillycross/Leiserchess---MIT-6.172-Fall16-Final-Project/blob/master/clint.py) to be downloaded.
+This assignment requires {{% resource_link "f5da2bf7-36ae-44b2-b937-8e8528c8bf7a" "clint.py" %}} to be downloaded.
 
 
 {{< tdclose >}}
@@ -81,7 +81,7 @@ This assignment requires [clint.py](https://github.com/sillycross/Leiserchess---
 {{% resource_link 8bd3facb-dd2d-076b-7100-e4dcd502c994 "HW 3 Materials (ZIP)" %}}  
 This ZIP file contains 5.c files, 1 .h file, 4 .o files, and 2 Makefiles.
 
-This assignment requires [clint.py](https://github.com/sillycross/Leiserchess---MIT-6.172-Fall16-Final-Project/blob/master/clint.py) to be downloaded.
+This assignment requires {{% resource_link "f5da2bf7-36ae-44b2-b937-8e8528c8bf7a" "clint.py" %}} to be downloaded.
 
 
 {{< tdclose >}}
@@ -152,7 +152,7 @@ Code files for this assignment are unavailable.
 {{% resource_link cd4c97dc-e5e2-9435-88fb-5c80b027dfcc "HW 7 Code (ZIP)" %}}   
 This .ZIP file contains 5 .c files and 1 Makefile. 
 
-This assignment also requires [bzip2](https://sourceforge.net/projects/bzip2/), an open-source file compression program.
+This assignment also requires {{% resource_link "b1ed8fa3-77f7-4e12-bcff-3e5d88277a47" "bzip2" %}}, an open-source file compression program.
 
 
 {{< tdclose >}}

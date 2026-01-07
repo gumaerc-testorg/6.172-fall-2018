@@ -10,28 +10,28 @@ uid: 7fb3dc3d-92b3-1753-af39-98394628ea7e
 ---
 6.172 has no required readings. This is a list of supplemental readings. 
 
-Zhang, Yunming, Mengjiao Yang, et al. "{{% resource_link "caedd0cc-ded7-4e85-9cea-08a4005a76d0" "GraphIt: A High-Performance Graph DSL" %}}." *Proceedings of the ACM on Programming Languages* 2 (2018): article no. 121. 
+Zhang, Yunming, Mengjiao Yang, et al. "[GraphIt: A High-Performance Graph DSL](https://dl.acm.org/citation.cfm?id=3276491)." *Proceedings of the ACM on Programming Languages* 2 (2018): article no. 121. 
 
-Ansel, Jason, Shoaib Kamil, et al. "{{% resource_link "2c055905-00ab-4cd6-9f71-b86e03b3bbd2" "OpenTuner: An Extensible Framework for Program Autotuning" %}}." *Proceedings of the 23rd International Conference on Parallel Architectures and Compilation* (2014): 303–316. 
+Ansel, Jason, Shoaib Kamil, et al. "[OpenTuner: An Extensible Framework for Program Autotuning](https://dl.acm.org/citation.cfm?id=2628092)." *Proceedings of the 23rd International Conference on Parallel Architectures and Compilation* (2014): 303–316. 
 
-Leiserson, Charles. "{{% resource_link "422673dc-9a7a-44a8-a65e-fb4932d47d0e" "The Cilk++ Concurrency Platform" %}}." *The Journal of Supercomputing* 51, no. 3 (2010): 244–257. 
+Leiserson, Charles. "[The Cilk++ Concurrency Platform](https://doi.org/10.1007/s11227-010-0405-3)." *The Journal of Supercomputing* 51, no. 3 (2010): 244–257. 
 
-Leiserson, Charles and Ilya Mirman. "{{% resource_link "637882b9-0a33-41e1-b574-c0b02e6a90e7" "How to Survive the Multicore Software Revolution (or at Least Survive the Hype) (PDF - 3.5MB)" %}}." 
+Leiserson, Charles and Ilya Mirman. "[How to Survive the Multicore Software Revolution (or at Least Survive the Hype) (PDF - 3.5MB)](https://software.intel.com/sites/default/files/m/d/4/1/d/8/How_to_Survive_the_Multicore_Software_Revolution-1.pdf)." 
 
-Frigo, Matteo, Charles Leiserson, and Keith Randall. "{{% resource_link "808a2c0e-e845-408e-9e46-0b6c6c49b0e3" "The Implementation of the Cilk-5 Multithreaded Language" %}}." *Proceedings of the 1998 ACM Sigplan Conference on Programming Language Design and Implementation (PLDI)* (1998). 
+Frigo, Matteo, Charles Leiserson, and Keith Randall. "[The Implementation of the Cilk-5 Multithreaded Language](https://doi.org/10.1145/277650.277725)." *Proceedings of the 1998 ACM Sigplan Conference on Programming Language Design and Implementation (PLDI)* (1998). 
 
-He, Yuxiong, Charles Leiserson, and William Leiserson. "{{% resource_link "1e4bfd0f-2dcb-4924-ac3f-5f04dfe8525e" "The Cilkview Scalability Analyzer" %}}." *Proceedings of the Twenty-Second Annual ACM Symposium on Parallelism in Algorithms and Architectures* (2010): 145–156. 
+He, Yuxiong, Charles Leiserson, and William Leiserson. "[The Cilkview Scalability Analyzer](https://dl.acm.org/citation.cfm?id=1810509)." *Proceedings of the Twenty-Second Annual ACM Symposium on Parallelism in Algorithms and Architectures* (2010): 145–156. 
 
-Mytkoqicz, Todd, Amer Diwan, et al. "{{% resource_link "45c958d5-a4be-436e-b149-235bd419a6be" "Producing Wrong Data Without Doing Anything Obviously Wrong" %}}." *Proceedings of the 14th International Conference on Architectural Support for Programming Languages and Operating Systems* (2009): 265–276. 
+Mytkoqicz, Todd, Amer Diwan, et al. "[Producing Wrong Data Without Doing Anything Obviously Wrong](https://doi.org/10.1145/1508284.1508275)." *Proceedings of the 14th International Conference on Architectural Support for Programming Languages and Operating Systems* (2009): 265–276. 
 
-Berger, Emery, Kathryn McKinley, et al. "{{% resource_link "08844195-3633-4848-a580-0e0455a55082" "Hoard: A Scalable Memory Allocator for Multithreaded Applications (PDF)" %}}." *Proceedings of the 9th International Conference on Architectural Support for Programming Languages and Operating Systems* (2000): 117–128.
+Berger, Emery, Kathryn McKinley, et al. "[Hoard: A Scalable Memory Allocator for Multithreaded Applications (PDF)](http://www.cs.utexas.edu/users/mckinley/papers/asplos-2000.pdf)." *Proceedings of the 9th International Conference on Architectural Support for Programming Languages and Operating Systems* (2000): 117–128.
 
-Kuszmaul, Bradley. "{{% resource_link "f66b2dc9-b173-49ee-afff-b3bd5b489da6" "SuperMalloc: A Super Fast Multithreaded Malloc for 64-bit Machines" %}}." *Proceedings of the 2015 International Symposium on Memory Management* (2015): 41–55. 
+Kuszmaul, Bradley. "[SuperMalloc: A Super Fast Multithreaded Malloc for 64-bit Machines](https://dl.acm.org/citation.cfm?id=2754178)." *Proceedings of the 2015 International Symposium on Memory Management* (2015): 41–55. 
 
-Schardl, Tao, William Moses, and Charles Leiserson. "{{% resource_link "16e4ce4e-45f8-4b5d-a807-0f17804d40aa" "Tapir: Embedding Fork-Join Parallelism into LLVM's Intermediate Representation" %}}." *Proceedings of the 22nd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming* (2017): 249–265.
+Schardl, Tao, William Moses, and Charles Leiserson. "[Tapir: Embedding Fork-Join Parallelism into LLVM's Intermediate Representation](https://dl.acm.org/citation.cfm?id=3018758)." *Proceedings of the 22nd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming* (2017): 249–265.
 
-Frigo, Matteo, Charles Leiserson, et al. "{{% resource_link "ad732781-1bbc-4334-be56-a6e53297b7fd" "Cache-Oblivious Algorithms" %}}." *ACM Transactions on Algorithms (TALG)* 8, no. 1 (2012): article no. 4. 
+Frigo, Matteo, Charles Leiserson, et al. "[Cache-Oblivious Algorithms](https://dl.acm.org/citation.cfm?id=2071383)." *ACM Transactions on Algorithms (TALG)* 8, no. 1 (2012): article no. 4. 
 
-Demaine, Erik. "{{% resource_link "05dc7743-5613-45c2-8a7e-b0ce6f24ab3c" "Cache-Oblivious Algorithms and Data Structures" %}}" in *Lecture Notes from the EEF Summer School on Massive Data Sets*, BRICS (2002).  
+Demaine, Erik. "[Cache-Oblivious Algorithms and Data Structures](https://erikdemaine.org/papers/BRICS2002/)" in *Lecture Notes from the EEF Summer School on Massive Data Sets*, BRICS (2002).  
 
-Leiserson, Charles. "{{% resource_link "b448d996-fce4-417e-acc1-964d8a6433ad" "A Simple Deterministic Algorithm for Guaranteeing the Forward Progress of Transactions" %}}." *Information Systems* 57 (2016): 69–74.
+Leiserson, Charles. "[A Simple Deterministic Algorithm for Guaranteeing the Forward Progress of Transactions](https://dspace.mit.edu/handle/1721.1/114871)." *Information Systems* 57 (2016): 69–74.
